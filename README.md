@@ -6,7 +6,7 @@ This repository documents the reverse engineering and security analysis of a mal
 ## What Happened
 A Steam user was targeted by a phishing page offering fake "vote to win skins/knife" rewards. The site used a fake steam login to capture credentials and escalate via family sharing features.
 
-##My Role
+## My Role
 - Guided victim to create a steam support ticket  
 - Reproduced attack in an isolated vm  
 - Analyzed frontend bundle and network  
