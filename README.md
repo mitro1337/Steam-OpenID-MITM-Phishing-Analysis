@@ -21,13 +21,6 @@ A Steam user was targeted by a phishing page offering fake "vote to win skins/kn
 - Low-effort backend on disposable vps  
 - Clear impersonation attempt
 
-## Repository Contents
-- **Report/** – Full write-up  
-- **Evidence/** – Screenshots, Network Traces  
-- **Code/** – JS Snippets  
-- **Disclosure/** – Steam Ticket Notes  
-- **Assets/** – Video References
-
 ## Video
 YouTube: https://youtu.be/qsYza5weW3E
 
