@@ -32,5 +32,14 @@ This website is actively attempting to steal Steam accounts.
 Please take appropriate action.
 
 Thank you.
+
+## Contact With Steam Support – Outcome
+
+On November 22, 2025, I submitted a full security report to Steam Support, including all technical details regarding the OpenID MITM phishing kit, the domain infrastructure, the credential-capture flow, and the abuse of Steam’s Family View mechanic.
+
+Steam Support replied acknowledging the report and confirmed that they will investigate internally. They also stated that no further updates will be provided publicly, which is standard policy for security-related incidents.
+
+This marks the final step on my side. The investigation, domain blocking, and any internal actions will now be handled entirely by Steam’s security team.
+
 ## Report Content
 <[Open it here](https://help.steampowered.com/en/wizard/HelpRequest/?ticket=4AijpJxDugKEAQOBQoBuRgukfNSOAj21OrqwnZH%2Bj9mtO1nx98DD%2BBErZMj3oibG)>
